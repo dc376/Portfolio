@@ -20,3 +20,7 @@ As for NBA, our website tracks the games that are going on and uses an API to ge
 in TicTacToe branch
 
 A project i did in community college to create a tictactoe board and play a game with another player.
+
+in ChatServer branch
+
+A socket programming project ot allow users to talk to each other and share a whiteboard.

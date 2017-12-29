@@ -1,12 +1,3 @@
-# Portfolio
-Public portfolio for projects i have contributed to and code i created
-
-Branches contain different projects i wanted to upload on to here.
-
-Master branch has some code that i have worked on and wish to display for others to see.
-
-
-
 
 ##### in sportsbetting branch #####
 
